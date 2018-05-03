@@ -11,3 +11,4 @@ DS-GA-1003 project
 
 ## Idea
 * Add player information, e.g. which players have played in a given game, might use embedding roster (like CBOW)
+* for nonlinear model, just use a bit value to label teams is fine
